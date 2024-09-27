@@ -47,5 +47,5 @@ In this task, I gained experience in using Flexbox for layout management, which 
 
 ## Author
 
-- Website - [Sebastian](--)
+- Website - [Sebastian](https://sebastianjast.github.io/Responsive_CV/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
